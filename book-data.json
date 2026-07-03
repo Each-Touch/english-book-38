@@ -1,0 +1,833 @@
+{
+  "passageNumber": 38,
+  "title": "Robots in Future Life",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Robots in Future Life",
+      "cn": "第 38 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "Teacher: Would you like robots to be important in your life in the future?",
+      "cn": "老师：你们希望机器人在未来生活中变得重要吗？",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "Jessica: To be honest, I think it is great.",
+      "cn": "杰西卡：说实话，我认为这很棒。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "A robot can do all the housework in my home.",
+      "cn": "机器人可以做我家里所有的家务。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "It can help with the chores I don't like, like washing dishes and cleaning my room.",
+      "cn": "它可以帮忙做我不喜欢的杂务，比如洗碗和打扫房间。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "Steve: If robots look like humans, that would be scary.",
+      "cn": "史蒂夫：如果机器人看起来像人类，那会很可怕。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "Nobody can tell they're robots or humans.",
+      "cn": "没人能分辨它们是机器人还是人类。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "It would feel like a strange movie from the future.",
+      "cn": "那会感觉像一部来自未来的奇怪电影。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "Kim: We just need to learn how to use this new technology.",
+      "cn": "金：我们只需要学习如何使用这项新技术。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "Soon, we will feel like we can't live without them because they are so helpful.",
+      "cn": "很快，我们会觉得没有它们就无法生活，因为它们太有用了。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "Mahmoud: I heard that robots can go to school for you and even do your homework!",
+      "cn": "马哈茂德：我听说机器人可以替你去上学，甚至替你做作业！",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "Roberta: I saw it on the website.",
+      "cn": "罗伯塔：我在网站上看到的。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/12.png",
+      "en": "Rebecca: Maybe robots will seem like real workers.",
+      "cn": "丽贝卡：也许机器人会看起来像真正的工人。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/13.png",
+      "en": "Then it's OK if people don't want to work anymore.",
+      "cn": "那么，如果人们不想再工作也没关系。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/14.png",
+      "en": "Some people think the robots are their friends, because they see robots as future workers.",
+      "cn": "有些人认为机器人是他们的朋友，因为他们把机器人看作未来的工人。",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "all": {
+      "phonetic": "/ɔl/",
+      "translation": "全部"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "anymore": {
+      "phonetic": "/ˌeniˈmɔː(r)/",
+      "translation": "再；还",
+      "cardId": "core-018"
+    },
+    "are": {
+      "phonetic": "/ər/",
+      "translation": "是"
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "translation": "作为；像"
+    },
+    "be": {
+      "phonetic": "/bi/",
+      "translation": "是"
+    },
+    "because": {
+      "phonetic": "/bɪˈkəz/",
+      "translation": "因为"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "cant": {
+      "phonetic": "/kænt/",
+      "translation": "不能"
+    },
+    "chore": {
+      "phonetic": "/tʃɔː(r)/",
+      "translation": "杂务",
+      "cardId": "core-003"
+    },
+    "chores": {
+      "phonetic": "/ʧɔrz/",
+      "translation": "家务活"
+    },
+    "cleaning": {
+      "phonetic": "/ˈklinɪŋ/",
+      "translation": "打扫"
+    },
+    "dish": {
+      "phonetic": "/dɪʃ/",
+      "translation": "盘子；菜肴",
+      "cardId": "core-005"
+    },
+    "dishes": {
+      "phonetic": "/ˈdɪʃɪz/",
+      "translation": "菜肴"
+    },
+    "do": {
+      "phonetic": "/du/",
+      "translation": "做"
+    },
+    "dont": {
+      "phonetic": "/doʊnt/",
+      "translation": "不要"
+    },
+    "even": {
+      "phonetic": "/ˈivɪn/",
+      "translation": "甚至"
+    },
+    "feel": {
+      "phonetic": "/fil/",
+      "translation": "感觉"
+    },
+    "for": {
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给"
+    },
+    "friends": {
+      "phonetic": "/frɛndz/",
+      "translation": "朋友们"
+    },
+    "from": {
+      "phonetic": "/frʌm/",
+      "translation": "从"
+    },
+    "future": {
+      "phonetic": "/fˈjuʧər/",
+      "translation": "未来"
+    },
+    "go": {
+      "phonetic": "/goʊ/",
+      "translation": "去"
+    },
+    "great": {
+      "phonetic": "/greɪt/",
+      "translation": "伟大的"
+    },
+    "heard": {
+      "phonetic": "/hərd/",
+      "translation": "听到"
+    },
+    "help": {
+      "phonetic": "/hɛlp/",
+      "translation": "帮助"
+    },
+    "helpful": {
+      "phonetic": "/ˈhelpfl/",
+      "translation": "有帮助的",
+      "cardId": "core-013"
+    },
+    "home": {
+      "phonetic": "/hoʊm/",
+      "translation": "家"
+    },
+    "homework": {
+      "phonetic": "/ˈhoʊmˌwərk/",
+      "translation": "家庭作业"
+    },
+    "honest": {
+      "phonetic": "/ˈɒnɪst/",
+      "translation": "诚实的",
+      "cardId": "core-001"
+    },
+    "housework": {
+      "phonetic": "/ˈhaʊswɜːk/",
+      "translation": "家务",
+      "cardId": "core-002"
+    },
+    "how": {
+      "phonetic": "/haʊ/",
+      "translation": "如何"
+    },
+    "human": {
+      "phonetic": "/ˈhjuːmən/",
+      "translation": "人类",
+      "cardId": "core-006"
+    },
+    "humans": {
+      "phonetic": "/ˈjumənz/",
+      "translation": "人类"
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "translation": "我"
+    },
+    "if": {
+      "phonetic": "/ɪf/",
+      "translation": "如果"
+    },
+    "important": {
+      "phonetic": "/ˌɪmˈpɔrtənt/",
+      "translation": "重要的"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "translation": "是"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "translation": "它"
+    },
+    "its": {
+      "phonetic": "/ɪts/",
+      "translation": "它的；它是"
+    },
+    "jessica": {
+      "phonetic": "/ˈʤɛsɪkə/",
+      "translation": "杰西卡"
+    },
+    "just": {
+      "phonetic": "/ʤɪst/",
+      "translation": "只是"
+    },
+    "kim": {
+      "phonetic": "/kɪm/",
+      "translation": "金"
+    },
+    "learn": {
+      "phonetic": "/lərn/",
+      "translation": "学习"
+    },
+    "life": {
+      "phonetic": "/laɪf/",
+      "translation": "生活"
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "translation": "喜欢"
+    },
+    "live": {
+      "phonetic": "/lɪv/",
+      "translation": "居住"
+    },
+    "look": {
+      "phonetic": "/lʊk/",
+      "translation": "看"
+    },
+    "mahmoud": {
+      "phonetic": "/ˈmæmud/",
+      "translation": "马哈茂德"
+    },
+    "maybe": {
+      "phonetic": "/ˈmeɪbi/",
+      "translation": "或许"
+    },
+    "movie": {
+      "phonetic": "/ˈmuːvi/",
+      "translation": "电影",
+      "cardId": "core-010"
+    },
+    "my": {
+      "phonetic": "/maɪ/",
+      "translation": "我的"
+    },
+    "need": {
+      "phonetic": "/nid/",
+      "translation": "需要"
+    },
+    "new": {
+      "phonetic": "/nu/",
+      "translation": "新的"
+    },
+    "nobody": {
+      "phonetic": "/ˈnəʊbədi/",
+      "translation": "没有人",
+      "cardId": "core-008"
+    },
+    "ok": {
+      "phonetic": "/ˈoʊˈkeɪ/",
+      "translation": "好的"
+    },
+    "on": {
+      "phonetic": "/ɑːn/",
+      "translation": "在……上"
+    },
+    "or": {
+      "phonetic": "/ɔːr/",
+      "translation": "或者"
+    },
+    "people": {
+      "phonetic": "/ˈpipəl/",
+      "translation": "人们"
+    },
+    "real": {
+      "phonetic": "/ˈriːəl/",
+      "translation": "真实的",
+      "cardId": "core-016"
+    },
+    "rebecca": {
+      "phonetic": "/rəˈbɛkə/",
+      "translation": "丽贝卡"
+    },
+    "roberta": {
+      "phonetic": "/rəˈbərtə/",
+      "translation": "罗伯塔"
+    },
+    "robot": {
+      "phonetic": "/ˈroʊˌbət/",
+      "translation": "机器人"
+    },
+    "robots": {
+      "phonetic": "/ˈroʊˌbəts/",
+      "translation": "机器人"
+    },
+    "room": {
+      "phonetic": "/rum/",
+      "translation": "房间"
+    },
+    "saw": {
+      "phonetic": "/sɔ/",
+      "translation": "锯"
+    },
+    "scary": {
+      "phonetic": "/ˈskeəri/",
+      "translation": "吓人的",
+      "cardId": "core-007"
+    },
+    "school": {
+      "phonetic": "/skul/",
+      "translation": "学校"
+    },
+    "see": {
+      "phonetic": "/si/",
+      "translation": "看"
+    },
+    "seem": {
+      "phonetic": "/siːm/",
+      "translation": "似乎",
+      "cardId": "core-015"
+    },
+    "so": {
+      "phonetic": "/soʊ/",
+      "translation": "所以"
+    },
+    "some": {
+      "phonetic": "/səm/",
+      "translation": "一些"
+    },
+    "soon": {
+      "phonetic": "/suːn/",
+      "translation": "很快",
+      "cardId": "core-012"
+    },
+    "steve": {
+      "phonetic": "/stiv/",
+      "translation": "史蒂夫"
+    },
+    "strange": {
+      "phonetic": "/streɪndʒ/",
+      "translation": "奇怪的",
+      "cardId": "core-009"
+    },
+    "teacher": {
+      "phonetic": "/ˈtiʧər/",
+      "translation": "老师"
+    },
+    "technology": {
+      "phonetic": "/tekˈnɒlədʒi/",
+      "translation": "技术",
+      "cardId": "core-011"
+    },
+    "tell": {
+      "phonetic": "/tɛl/",
+      "translation": "告诉"
+    },
+    "that": {
+      "phonetic": "/ðət/",
+      "translation": "那"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "their": {
+      "phonetic": "/ðɛr/",
+      "translation": "他们的"
+    },
+    "them": {
+      "phonetic": "/ðɛm/",
+      "translation": "他们"
+    },
+    "then": {
+      "phonetic": "/ðɛn/",
+      "translation": "然后"
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们"
+    },
+    "theyre": {
+      "phonetic": "/ðeər/",
+      "translation": "他们是"
+    },
+    "think": {
+      "phonetic": "/θɪŋk/",
+      "translation": "思考"
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "translation": "这"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "use": {
+      "phonetic": "/juz/",
+      "translation": "使用"
+    },
+    "want": {
+      "phonetic": "/wɔnt/",
+      "translation": "想"
+    },
+    "wash": {
+      "phonetic": "/wɒʃ/",
+      "translation": "洗",
+      "cardId": "core-004"
+    },
+    "washing": {
+      "phonetic": "/ˈwɑʃɪŋ/",
+      "translation": "洗涤"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "translation": "我们"
+    },
+    "website": {
+      "phonetic": "/ˈwebsaɪt/",
+      "translation": "网站",
+      "cardId": "core-014"
+    },
+    "will": {
+      "phonetic": "/wɪl/",
+      "translation": "将要"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "translation": "和；带有"
+    },
+    "without": {
+      "phonetic": "/wɪˈðaʊt/",
+      "translation": "没有"
+    },
+    "work": {
+      "phonetic": "/wərk/",
+      "translation": "工作"
+    },
+    "worker": {
+      "phonetic": "/ˈwɜːkə(r)/",
+      "translation": "工人",
+      "cardId": "core-017"
+    },
+    "workers": {
+      "phonetic": "/ˈwərkərz/",
+      "translation": "工人"
+    },
+    "would": {
+      "phonetic": "/wʊd/",
+      "translation": "会"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "translation": "你；你们"
+    },
+    "your": {
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "honest",
+      "speak": "honest",
+      "phonetic": "/ˈɒnɪst/",
+      "meaning": "诚实的",
+      "memory": "honest → 诚实的",
+      "match": "honest",
+      "example": "Jessica: To be honest, I think it is great. 杰西卡：说实话，我认为这很棒。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "housework",
+      "speak": "housework",
+      "phonetic": "/ˈhaʊswɜːk/",
+      "meaning": "家务",
+      "memory": "housework → 家务",
+      "match": "housework",
+      "example": "A robot can do all the housework in my home. 机器人可以做我家里所有的家务。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "chore",
+      "speak": "chore",
+      "phonetic": "/tʃɔː(r)/",
+      "meaning": "杂务",
+      "memory": "chore → 杂务",
+      "match": "chore",
+      "example": "Teacher: Would you like robots to be important in your life in the future? 老师：你们希望机器人在未来生活中变得重要吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "wash",
+      "speak": "wash",
+      "phonetic": "/wɒʃ/",
+      "meaning": "洗",
+      "memory": "wash → 洗",
+      "match": "wash",
+      "example": "Teacher: Would you like robots to be important in your life in the future? 老师：你们希望机器人在未来生活中变得重要吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "dish",
+      "speak": "dish",
+      "phonetic": "/dɪʃ/",
+      "meaning": "盘子；菜肴",
+      "memory": "dish → 盘子；菜肴",
+      "match": "dish",
+      "example": "Teacher: Would you like robots to be important in your life in the future? 老师：你们希望机器人在未来生活中变得重要吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "human",
+      "speak": "human",
+      "phonetic": "/ˈhjuːmən/",
+      "meaning": "人类",
+      "memory": "human → 人类",
+      "match": "human",
+      "example": "Teacher: Would you like robots to be important in your life in the future? 老师：你们希望机器人在未来生活中变得重要吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "scary",
+      "speak": "scary",
+      "phonetic": "/ˈskeəri/",
+      "meaning": "吓人的",
+      "memory": "scary → 吓人的",
+      "match": "scary",
+      "example": "Steve: If robots look like humans, that would be scary. 史蒂夫：如果机器人看起来像人类，那会很可怕。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "nobody",
+      "speak": "nobody",
+      "phonetic": "/ˈnəʊbədi/",
+      "meaning": "没有人",
+      "memory": "nobody → 没有人",
+      "match": "nobody",
+      "example": "Nobody can tell they're robots or humans. 没人能分辨它们是机器人还是人类。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "strange",
+      "speak": "strange",
+      "phonetic": "/streɪndʒ/",
+      "meaning": "奇怪的",
+      "memory": "strange → 奇怪的",
+      "match": "strange",
+      "example": "It would feel like a strange movie from the future. 那会感觉像一部来自未来的奇怪电影。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "movie",
+      "speak": "movie",
+      "phonetic": "/ˈmuːvi/",
+      "meaning": "电影",
+      "memory": "movie → 电影",
+      "match": "movie",
+      "example": "It would feel like a strange movie from the future. 那会感觉像一部来自未来的奇怪电影。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "technology",
+      "speak": "technology",
+      "phonetic": "/tekˈnɒlədʒi/",
+      "meaning": "技术",
+      "memory": "technology → 技术",
+      "match": "technology",
+      "example": "Kim: We just need to learn how to use this new technology. 金：我们只需要学习如何使用这项新技术。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "soon",
+      "speak": "soon",
+      "phonetic": "/suːn/",
+      "meaning": "很快",
+      "memory": "soon → 很快",
+      "match": "soon",
+      "example": "Soon, we will feel like we can't live without them because they are so helpful. 很快，我们会觉得没有它们就无法生活，因为它们太有用了。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-013",
+      "word": "helpful",
+      "speak": "helpful",
+      "phonetic": "/ˈhelpfl/",
+      "meaning": "有帮助的",
+      "memory": "helpful → 有帮助的",
+      "match": "helpful",
+      "example": "Soon, we will feel like we can't live without them because they are so helpful. 很快，我们会觉得没有它们就无法生活，因为它们太有用了。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-014",
+      "word": "website",
+      "speak": "website",
+      "phonetic": "/ˈwebsaɪt/",
+      "meaning": "网站",
+      "memory": "website → 网站",
+      "match": "website",
+      "example": "Roberta: I saw it on the website. 罗伯塔：我在网站上看到的。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-015",
+      "word": "seem",
+      "speak": "seem",
+      "phonetic": "/siːm/",
+      "meaning": "似乎",
+      "memory": "seem → 似乎",
+      "match": "seem",
+      "example": "Rebecca: Maybe robots will seem like real workers. 丽贝卡：也许机器人会看起来像真正的工人。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-016",
+      "word": "real",
+      "speak": "real",
+      "phonetic": "/ˈriːəl/",
+      "meaning": "真实的",
+      "memory": "real → 真实的",
+      "match": "real",
+      "example": "Rebecca: Maybe robots will seem like real workers. 丽贝卡：也许机器人会看起来像真正的工人。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-017",
+      "word": "worker",
+      "speak": "worker",
+      "phonetic": "/ˈwɜːkə(r)/",
+      "meaning": "工人",
+      "memory": "worker → 工人",
+      "match": "worker",
+      "example": "Teacher: Would you like robots to be important in your life in the future? 老师：你们希望机器人在未来生活中变得重要吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-018",
+      "word": "anymore",
+      "speak": "anymore",
+      "phonetic": "/ˌeniˈmɔː(r)/",
+      "meaning": "再；还",
+      "memory": "anymore → 再；还",
+      "match": "anymore",
+      "example": "Then it's OK if people don't want to work anymore. 那么，如果人们不想再工作也没关系。",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "honest",
+      "phonetic": "/ˈɒnɪst/",
+      "meaning": "诚实的"
+    },
+    {
+      "word": "housework",
+      "phonetic": "/ˈhaʊswɜːk/",
+      "meaning": "家务"
+    },
+    {
+      "word": "chore",
+      "phonetic": "/tʃɔː(r)/",
+      "meaning": "杂务"
+    },
+    {
+      "word": "wash",
+      "phonetic": "/wɒʃ/",
+      "meaning": "洗"
+    },
+    {
+      "word": "dish",
+      "phonetic": "/dɪʃ/",
+      "meaning": "盘子；菜肴"
+    },
+    {
+      "word": "human",
+      "phonetic": "/ˈhjuːmən/",
+      "meaning": "人类"
+    },
+    {
+      "word": "scary",
+      "phonetic": "/ˈskeəri/",
+      "meaning": "吓人的"
+    },
+    {
+      "word": "nobody",
+      "phonetic": "/ˈnəʊbədi/",
+      "meaning": "没有人"
+    },
+    {
+      "word": "strange",
+      "phonetic": "/streɪndʒ/",
+      "meaning": "奇怪的"
+    },
+    {
+      "word": "movie",
+      "phonetic": "/ˈmuːvi/",
+      "meaning": "电影"
+    },
+    {
+      "word": "technology",
+      "phonetic": "/tekˈnɒlədʒi/",
+      "meaning": "技术"
+    },
+    {
+      "word": "soon",
+      "phonetic": "/suːn/",
+      "meaning": "很快"
+    },
+    {
+      "word": "helpful",
+      "phonetic": "/ˈhelpfl/",
+      "meaning": "有帮助的"
+    },
+    {
+      "word": "website",
+      "phonetic": "/ˈwebsaɪt/",
+      "meaning": "网站"
+    },
+    {
+      "word": "seem",
+      "phonetic": "/siːm/",
+      "meaning": "似乎"
+    },
+    {
+      "word": "real",
+      "phonetic": "/ˈriːəl/",
+      "meaning": "真实的"
+    },
+    {
+      "word": "worker",
+      "phonetic": "/ˈwɜːkə(r)/",
+      "meaning": "工人"
+    },
+    {
+      "word": "anymore",
+      "phonetic": "/ˌeniˈmɔː(r)/",
+      "meaning": "再；还"
+    }
+  ]
+}

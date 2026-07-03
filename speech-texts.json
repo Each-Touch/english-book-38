@@ -1,0 +1,84 @@
+{
+  "voice": "adult male | teacher clear",
+  "reference": "12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "pages": [
+    {
+      "page": 0,
+      "visible": "Robots in Future Life",
+      "speech": "Robots in Future Life"
+    },
+    {
+      "page": 1,
+      "visible": "Teacher: Would you like robots to be important in your life in the future?",
+      "speech": "Teacher. Would you like robots to be important in your life in the future?"
+    },
+    {
+      "page": 2,
+      "visible": "Jessica: To be honest, I think it is great.",
+      "speech": "Jessica. To be honest, I think it is great."
+    },
+    {
+      "page": 3,
+      "visible": "A robot can do all the housework in my home.",
+      "speech": "A robot can do all the housework in my home."
+    },
+    {
+      "page": 4,
+      "visible": "It can help with the chores I don't like, like washing dishes and cleaning my room.",
+      "speech": "It can help with the chores I don't like, like washing dishes and cleaning my room."
+    },
+    {
+      "page": 5,
+      "visible": "Steve: If robots look like humans, that would be scary.",
+      "speech": "Steve. If robots look like humans, that would be scary."
+    },
+    {
+      "page": 6,
+      "visible": "Nobody can tell they're robots or humans.",
+      "speech": "Nobody can tell they're robots or humans."
+    },
+    {
+      "page": 7,
+      "visible": "It would feel like a strange movie from the future.",
+      "speech": "It would feel like a strange movie from the future."
+    },
+    {
+      "page": 8,
+      "visible": "Kim: We just need to learn how to use this new technology.",
+      "speech": "Kim. We just need to learn how to use this new technology."
+    },
+    {
+      "page": 9,
+      "visible": "Soon, we will feel like we can't live without them because they are so helpful.",
+      "speech": "Soon, we will feel like we can't live without them because they are so helpful."
+    },
+    {
+      "page": 10,
+      "visible": "Mahmoud: I heard that robots can go to school for you and even do your homework!",
+      "speech": "Mahmoud. I heard that robots can go to school for you and even do your homework!"
+    },
+    {
+      "page": 11,
+      "visible": "Roberta: I saw it on the website.",
+      "speech": "Roberta. I saw it on the website."
+    },
+    {
+      "page": 12,
+      "visible": "Rebecca: Maybe robots will seem like real workers.",
+      "speech": "Rebecca. Maybe robots will seem like real workers."
+    },
+    {
+      "page": 13,
+      "visible": "Then it's OK if people don't want to work anymore.",
+      "speech": "Then it's OK if people don't want to work anymore."
+    },
+    {
+      "page": 14,
+      "visible": "Some people think the robots are their friends, because they see robots as future workers.",
+      "speech": "Some people think the robots are their friends, because they see robots as future workers."
+    }
+  ]
+}
