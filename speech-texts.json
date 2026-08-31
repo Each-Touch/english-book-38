@@ -1,84 +1,184 @@
 {
-  "voice": "adult male | teacher clear",
-  "reference": "12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "reference": "/Users/zhaozixu/Applications/IndexTTS-2.5/presets/british_teacher/reference_slow.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
   "pages": [
     {
       "page": 0,
       "visible": "Robots in Future Life",
-      "speech": "Robots in Future Life"
+      "speech": "Robots in Future Life",
+      "file": "sentences/page-00.mp3",
+      "duration_seconds": 3.669,
+      "raw_duration_seconds": 2.24,
+      "asr": "robots in future life.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 1,
-      "visible": "Teacher: Would you like robots to be important in your life in the future?",
-      "speech": "Teacher. Would you like robots to be important in your life in the future?"
+      "visible": "Teacher. Would you like robots to be important in your life in the future?",
+      "speech": "Teacher. Would you like robots to be important in your life in the future?",
+      "file": "sentences/page-01.mp3",
+      "duration_seconds": 6.92,
+      "raw_duration_seconds": 4.64,
+      "asr": "Teacher, would you like robots to be important in your life in the future?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 2,
-      "visible": "Jessica: To be honest, I think it is great.",
-      "speech": "Jessica. To be honest, I think it is great."
+      "visible": "Jessica. To be honest, I think it is great.",
+      "speech": "Jessica. To be honest, I think it is great.",
+      "file": "sentences/page-02.mp3",
+      "duration_seconds": 5.381,
+      "raw_duration_seconds": 3.68,
+      "asr": "Jessica, to be honest, I think it is great.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 3,
       "visible": "A robot can do all the housework in my home.",
-      "speech": "A robot can do all the housework in my home."
+      "speech": "A robot can do all the housework in my home.",
+      "file": "sentences/page-03.mp3",
+      "duration_seconds": 4.807,
+      "raw_duration_seconds": 3.2,
+      "asr": "A robot can do all the housework in my home.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 4,
       "visible": "It can help with the chores I don't like, like washing dishes and cleaning my room.",
-      "speech": "It can help with the chores I don't like, like washing dishes and cleaning my room."
+      "speech": "It can help with the chores I don't like, like washing dishes and cleaning my room.",
+      "file": "sentences/page-04.mp3",
+      "duration_seconds": 8.15,
+      "raw_duration_seconds": 4.8,
+      "asr": "It can help with the chores I don't like, like washing dishes and cleaning my room.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 5,
-      "visible": "Steve: If robots look like humans, that would be scary.",
-      "speech": "Steve. If robots look like humans, that would be scary."
+      "visible": "Steve. If robots look like humans, that would be scary.",
+      "speech": "Steve. If robots look like humans, that would be scary.",
+      "file": "sentences/page-05.mp3",
+      "duration_seconds": 6.258,
+      "raw_duration_seconds": 3.52,
+      "asr": "Steve, if robots look like humans, that would be scary.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 6,
       "visible": "Nobody can tell they're robots or humans.",
-      "speech": "Nobody can tell they're robots or humans."
+      "speech": "Nobody can tell they're robots or humans.",
+      "file": "sentences/page-06.mp3",
+      "duration_seconds": 6.118,
+      "raw_duration_seconds": 2.88,
+      "asr": "Nobody can tell their robots or humans.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 7,
       "visible": "It would feel like a strange movie from the future.",
-      "speech": "It would feel like a strange movie from the future."
+      "speech": "It would feel like a strange movie from the future.",
+      "file": "sentences/page-07.mp3",
+      "duration_seconds": 5.747,
+      "raw_duration_seconds": 3.04,
+      "asr": "it would feel like a strange movie from the future.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 8,
-      "visible": "Kim: We just need to learn how to use this new technology.",
-      "speech": "Kim. We just need to learn how to use this new technology."
+      "visible": "Kim. We just need to learn how to use this new technology.",
+      "speech": "Kim. We just need to learn how to use this new technology.",
+      "file": "sentences/page-08.mp3",
+      "duration_seconds": 6.502,
+      "raw_duration_seconds": 3.68,
+      "asr": "Kim, we just need to learn how to use this new technology.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 9,
       "visible": "Soon, we will feel like we can't live without them because they are so helpful.",
-      "speech": "Soon, we will feel like we can't live without them because they are so helpful."
+      "speech": "Soon, we will feel like we can't live without them because they are so helpful.",
+      "file": "sentences/page-09.mp3",
+      "duration_seconds": 7.396,
+      "raw_duration_seconds": 4.0,
+      "asr": "Soon, we will feel like we can't live without them because they are so helpful.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 10,
-      "visible": "Mahmoud: I heard that robots can go to school for you and even do your homework!",
-      "speech": "Mahmoud. I heard that robots can go to school for you and even do your homework!"
+      "visible": "Mahmoud. I heard that robots can go to school for you and even do your homework!",
+      "speech": "Mahmoud. I heard that robots can go to school for you and even do your homework!",
+      "file": "sentences/page-10.mp3",
+      "duration_seconds": 8.011,
+      "raw_duration_seconds": 4.48,
+      "asr": "Mah mood. I heard that robots can go to school for you and even do your homework.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 11,
-      "visible": "Roberta: I saw it on the website.",
-      "speech": "Roberta. I saw it on the website."
+      "visible": "Roberta. I saw it on the website.",
+      "speech": "Roberta. I saw it on the website.",
+      "file": "sentences/page-11.mp3",
+      "duration_seconds": 4.238,
+      "raw_duration_seconds": 2.72,
+      "asr": "Roberta, I saw it on the website.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 12,
-      "visible": "Rebecca: Maybe robots will seem like real workers.",
-      "speech": "Rebecca. Maybe robots will seem like real workers."
+      "visible": "Rebecca. Maybe robots will seem like real workers.",
+      "speech": "Rebecca. Maybe robots will seem like real workers.",
+      "file": "sentences/page-12.mp3",
+      "duration_seconds": 6.313,
+      "raw_duration_seconds": 4.32,
+      "asr": "Rebecca, maybe robots will seem like real workers.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 13,
       "visible": "Then it's OK if people don't want to work anymore.",
-      "speech": "Then it's OK if people don't want to work anymore."
+      "speech": "Then it's OK if people don't want to work anymore.",
+      "file": "sentences/page-13.mp3",
+      "duration_seconds": 6.165,
+      "raw_duration_seconds": 3.36,
+      "asr": "then it is okay if people don't want to work anymore.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 14,
       "visible": "Some people think the robots are their friends, because they see robots as future workers.",
-      "speech": "Some people think the robots are their friends, because they see robots as future workers."
+      "speech": "Some people think the robots are their friends, because they see robots as future workers.",
+      "file": "sentences/page-14.mp3",
+      "duration_seconds": 9.137,
+      "raw_duration_seconds": 5.28,
+      "asr": "Some people think the robots are their friends because they see robots as future workers.",
+      "asr_exact": true,
+      "needs_manual_review": false
     }
-  ]
+  ],
+  "model": "IndexTeam/IndexTTS-2.5",
+  "post_atempo": null,
+  "method": "fixed British reference cloned sentence by sentence with IndexTTS2.5; native 1.18 duration factor; strict local ASR; capped Rubber Band R3 alignment; two-pass loudness normalization",
+  "qa": {
+    "sentence_count": 15,
+    "asr_exact_count": 15,
+    "manual_review_pages": [],
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
